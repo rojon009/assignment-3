@@ -1,3 +1,5 @@
+// https://github.com/rojon038/assignment-3
+
 // 1. kilometer to meter converter (1 kilometer = 1000 meter)
 function kilometerToMeter(distance) {
     if (distance == undefined) {
@@ -78,8 +80,3 @@ function megaFriend(friendsArray) {
     }
     return longestName;
 }
-
-
-
-
-
